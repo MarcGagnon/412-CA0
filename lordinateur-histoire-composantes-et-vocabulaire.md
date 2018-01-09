@@ -16,3 +16,5 @@ Seulement le « hic » avec les tubes à vide est que, comme les anciennes ampou
 
 **Figure** — Un technicien change manuellement l'un des 19 000 tubes à vide de l'ENIAC. **Source :** ENIAC, Wikipédia
 
+
+
