@@ -4,7 +4,7 @@
 
 ### Les premiers ordinateurs
 
-Les premiers ordinateurs étaient des **calculateurs** monstres qui remplissaient de grandes pièces. L'**ENIAC** \(1946\), le premier ordinateur entièrement électronique, pesait 30 tonnes. Pour fonctionner, il utilisait des **tubes à vide** \(des lampes\). Les tubes à vide ayant seulement deux états possibles, allumés ou éteints, ceux-ci pouvaient servir à représenter de l'information dans la forme **binaire**, c'est-à-dire que chaque tube pouvait représenter soit un **0** \(éteint\) ou un **1** \(allumé\).
+Les premiers ordinateurs étaient des **calculateurs** monstres qui remplissaient de grandes pièces. L'**ENIAC** \(1946\), le premier ordinateur entièrement électronique, pesait 30 tonnes. Pour fonctionner, il utilisait des **tubes à vide** \(lampes\). Les tubes à vide ayant seulement deux états possibles, allumés ou éteints, ceux-ci pouvaient servir à représenter de l'information dans la forme **binaire**, c'est-à-dire que chaque tube pouvait représenter soit un **0** \(éteint\) ou un **1** \(allumé\).
 
 ![](/assets/ENIAC.png)
 
