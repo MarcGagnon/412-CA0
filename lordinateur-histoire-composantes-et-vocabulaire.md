@@ -40,5 +40,5 @@ Ainsi, au lieu d'être composés de 19 000 lampes dans une grande pièce, les or
 
 ![](/assets/circuit-integre.png)
 
-**Figure **— En haut à gauche, le premier circuit intégré fabriqué à la main par son inventeur. À droite, quelques exemples de circuits intégrés. En bas, une **carte** équipée de circuits semi-conducteurs sur laquelle on retrouve plusieurs circuits intégrés et autres composants électroniques. **Source** : [Circuit intégré](https://fr.wikipedia.org/wiki/Circuit_intégré "Lien vers l&apos;article « Circuit intégré » sur Wikipédia"), Wikipédia.
+**Figure** — En haut à gauche, le premier circuit intégré fabriqué à la main par son inventeur. À droite, quelques exemples de circuits intégrés. En bas, une **carte** équipée de circuits semi-conducteurs sur laquelle on retrouve plusieurs circuits intégrés et autres composants électroniques. **Source** : [Circuit intégré](https://fr.wikipedia.org/wiki/Circuit_intégré "Lien vers l&apos;article « Circuit intégré » sur Wikipédia"), Wikipédia.
 
