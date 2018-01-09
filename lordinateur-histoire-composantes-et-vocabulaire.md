@@ -20,9 +20,9 @@ Seulement le « hic » avec les tubes à vide est que, comme les anciennes ampou
 
 En 1948, trois chercheurs américains de Bell Labs inventent le **transistor** \(Prix Nobel 1956\), un composant électronique qui permet essentiellement de remplacer les tubes à vide par une toute petite pièce à trois branches. Le transistor a plusieurs avantages qui font en sorte qu'il est utilisé dans plusieurs appareils électroniques et circuits logiques :
 
-1. il est beaucoup plus petit que les tubes à vide;
-2. il ne chauffe pas \(il ne brûle pas, ou très rarement\);
-3. donc il a une longue durée de vie.
+1. il est beaucoup **plus petit** que les tubes à vide;
+2. il **ne chauffe pas** \(il ne brûle pas, ou très rarement\);
+3. il a ainsi une très **longue durée de vie**.
 
 Cependant, les premiers transistors « individuels » ont un inconvénient de taille : on doit les **souder** un à la fois. Ces soudures sont très délicates puisqu'il ne doit y avoir aucun court-circuit entre les trois branches.
 
