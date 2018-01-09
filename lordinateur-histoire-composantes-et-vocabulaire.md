@@ -4,7 +4,7 @@
 
 ### Les premiers ordinateurs
 
-Les premiers ordinateurs étaient des **calculateurs** monstres qui remplissaient de grandes pièces. L'**ENIAC** \(1946\), le premier ordinateur entièrement électronique, pesait 30 tonnes. Pour fonctionner, il utilisait des **tubes à vide** \(lampes\). Les tubes à vide ayant seulement deux états possibles, allumés ou éteints, ceux-ci pouvaient servir à représenter de l'information dans la forme **binaire**, c'est-à-dire que chaque tube pouvait représenter soit un **0** \(éteint\) ou un **1** \(allumé\).
+Les premiers ordinateurs étaient des **calculateurs** monstres qui remplissaient de grandes pièces. L'**ENIAC** \(1946\), le premier ordinateur entièrement électronique, pesait 30 tonnes. Pour fonctionner, il utilisait plus de 19 000 **tubes à vide** \(lampes\). Les tubes à vide ayant seulement deux états possibles, allumés ou éteints, ceux-ci pouvaient servir à représenter de l'information dans la forme **binaire**, c'est-à-dire que chaque tube pouvait représenter soit un **0** \(éteint\) ou un **1** \(allumé\).
 
 ![](/assets/ENIAC.png)
 
@@ -41,4 +41,10 @@ Ainsi, au lieu d'être composés de 19 000 lampes dans une grande pièce, les or
 ![](/assets/circuit-integre.png)
 
 **Figure** — En haut à gauche, le premier circuit intégré fabriqué à la main par son inventeur. À droite, quelques exemples de circuits intégrés. En bas, une **carte** équipée de circuits semi-conducteurs sur laquelle on retrouve plusieurs circuits intégrés et autres composants électroniques. **Source** : [Circuit intégré](https://fr.wikipedia.org/wiki/Circuit_intégré "Lien vers l&apos;article « Circuit intégré » sur Wikipédia"), Wikipédia.
+
+### Le processeur et le microprocesseur
+
+En 1971, la société Intel de Californie lance le premier **microprocesseur** commercial, le Intel 4004. Un microprocesseur est un **processeur** miniaturisé qui exécute les instructions transmises par un **programme informatique**, les place en mémoire pour référence future. On l'appelle aussi **unité centrale de traitement** \(**UCT**, ou **CPU** en anglais, pour _Central Processing Unit_\). Le Intel 4004 était ainsi plus petit que le bout d'un doigt, tout en étant plus puissant que l'ENIAC de 30 tonnes! Il contenait 2&nbsp;300 transistors et pouvait réaliser plus de 90&nbsp;000 opérations par seconde... pour la modique somme de 200$. Il a surtout servi à produire des **calculatrices**.
+
+Quelques années plus tard,
 
