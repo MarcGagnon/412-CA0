@@ -14,7 +14,7 @@ Seulement le « hic » avec les tubes à vide est que, comme les anciennes ampou
 
 ![](/assets/ENIAC-technicien.png)
 
-**Figure** — Un technicien change manuellement l'un des 19 000 tubes à vide de l'ENIAC. **Source :** ENIAC, Wikipédia
+**Figure** — Un technicien change manuellement l'un des 19 000 tubes à vide de l'ENIAC. **Source :** ENIAC, Wikipédia
 
 ### Le transistor
 
@@ -30,7 +30,11 @@ Cependant, les premiers transistors « individuels » ont un inconvénient de ta
 
 **Figure** — Différents modèles de transistors. Beaucoup plus petits qu'une lampe et ils ne brûlent pas!
 
+### Le circuit intégré
 
+En 1958, Jack Kilby de la société Texas Instruments invente le **circuit intégré**. Il s'agit d'une plaque, parfois appelée une **puce**, sur laquelle on regroupe plusieurs milliers, millions ou milliards de **transistors** de taille microscopique, sans avoir à les souder entre eux. De petites pattes ou broches permettent de fixer les puces et circuits intégrés sur une **carte**, pour créer des appareils électroniques plus complexes \(calculatrices, montres, jeux électroniques, fours micro-ondes, téléviseurs, ordinateurs, etc.\).
 
+![](/assets/circuit-integre.png)
 
+**Figure **— En haut à gauche, le premier circuit intégré fabriqué à la main par son inventeur. À droite, quelques exemples de circuits intégrés. En bas, une **carte** équipée de circuits semi-conducteurs sur laquelle on retrouve plusieurs circuits intégrés et autres composants électroniques. **Source** : Circuit intégré, Wikipédia.
 
