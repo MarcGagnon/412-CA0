@@ -8,7 +8,7 @@ Les premiers ordinateurs étaient des **calculateurs** monstres qui remplissaien
 
 ![](/assets/ENIAC.png)
 
-**Figure** — ENIAC : _Electronic Numerical Integrator Analyser and Computer.    
+**Figure** — ENIAC : _Electronic Numerical Integrator Analyser and Computer.      
 _**Source :** ENIAC, Wikipédia
 
 Seulement le « hic » avec les tubes à vide est que, comme les anciennes ampoules électriques, ils prennent beaucoup d'**espace** et dégagent énormément de **chaleur**. Puisque les tubes chauffent, ils ont la fâcheuse habitude de **brûler** très souvent. Les tubes brûlés doivent donc constamment être remplacés.
