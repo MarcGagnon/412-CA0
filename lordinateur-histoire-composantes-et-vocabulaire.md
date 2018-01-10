@@ -49,9 +49,10 @@ En 1971, la société Intel de Californie lance le premier **microprocesseur** c
 Quelques années plus tard,en 1974, Intel lance un microprocesseur qui change le monde, l'**Intel 8080**. Ce microprocesseur est à l'origine d'un des premiers **microordinateurs**, l'**Altair 8800**.
 
 ### L'Altair 8800 et Microsoft
-En 1975, deux étudiants de l'université Harvard, Paul Allen et Bill Gates, voient l'Altair 8800 à la une de la revue **_Popular Electronics_**. Puisque ce microordinateur n'a pas d'écran ou de clavier, il doit être programmé avec des interupteurs. 
+En 1975, deux étudiants de l'université Harvard, Paul Allen et Bill Gates, voient l'Altair 8800 à la une de la revue **_Popular Electronics_**. Puisque ce microordinateur n'a pas d'écran ou de clavier, il doit être programmé avec des interupteurs. Allen et Gates voient donc l'opportunité de créer un
 
 ![](https://upload.wikimedia.org/wikipedia/en/c/cb/Popular_Electronics_Cover_Jan_1975.jpg)
+
 **Figure** — _Popular Electronics_, janvier 1975
 
 
