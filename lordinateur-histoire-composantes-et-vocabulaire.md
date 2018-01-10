@@ -34,7 +34,7 @@ Cependant, les premiers transistors « individuels » ont un inconvénient de ta
 
 ### Le circuit intégré
 
-En 1958, Jack Kilby de la société Texas Instruments invente le **circuit intégré**. Il s'agit d'une plaque, parfois appelée une **puce**, sur laquelle on regroupe plusieurs milliers, millions ou milliards de **transistors** de taille microscopique, sans avoir à les souder entre eux. De petites pattes ou broches permettent de fixer les puces et circuits intégrés sur une **carte**, pour créer des appareils électroniques plus complexes \(calculatrices, téléphones, montres, jeux électroniques, fours micro-ondes, téléviseurs, ordinateurs, etc.\).
+En 1958, Jack Kilby de la société Texas Instruments invente le **circuit intégré**. Il s'agit d'une plaque, parfois appelée une **puce**, sur laquelle on regroupe plusieurs milliers, millions ou milliards de **transistors** de taille microscopique, sans avoir à les souder entre eux. De petites pattes ou broches permettent de fixer les puces et circuits intégrés sur une **carte**, pour créer des appareils électroniques plus complexes \(calculatrices, téléphones, montres, jeux électroniques, fours microondes, téléviseurs, ordinateurs, etc.\).
 
 Ainsi, au lieu d'être composés de 19 000 lampes dans une grande pièce, les ordinateurs d'aujourd'hui comportent plusieurs milliards de transistors pouvant représenter l'information sous forme **binaire** : **0** \(fermés\) ou **1** \(ouverts\).
 
@@ -44,7 +44,15 @@ Ainsi, au lieu d'être composés de 19 000 lampes dans une grande pièce, les or
 
 ### Le processeur et le microprocesseur
 
-En 1971, la société Intel de Californie lance le premier **microprocesseur** commercial, le Intel 4004. Un microprocesseur est un **processeur** miniaturisé qui exécute les instructions transmises par un **programme informatique**, les place en mémoire pour référence future. On l'appelle aussi **unité centrale de traitement** \(**UCT**, ou **CPU** en anglais, pour _Central Processing Unit_\). Le Intel 4004 était ainsi plus petit que le bout d'un doigt, tout en étant plus puissant que l'ENIAC de 30 tonnes! Il contenait 2&nbsp;300 transistors et pouvait réaliser plus de 90&nbsp;000 opérations par seconde... pour la modique somme de 200$. Il a surtout servi à produire des **calculatrices**.
+En 1971, la société Intel de Californie lance le premier **microprocesseur** commercial, l'**Intel 4004**. Un microprocesseur est un **processeur** miniaturisé qui exécute les instructions transmises par un **programme informatique**, les place en mémoire pour référence future. On l'appelle aussi **unité centrale de traitement** \(**UCT**, ou **CPU** en anglais, pour _Central Processing Unit_\). Le Intel 4004 était ainsi plus petit que le bout d'un doigt, tout en étant plus puissant que l'ENIAC de 30 tonnes! Il contenait 2&nbsp;300 transistors et pouvait réaliser plus de 90&nbsp;000 opérations par seconde... pour la modique somme de 200$. Il a surtout servi à produire des **calculatrices**.
 
-Quelques années plus tard,
+Quelques années plus tard,en 1974, Intel lance un microprocesseur qui change le monde, l'**Intel 8080**. Ce microprocesseur est à l'origine d'un des premiers **microordinateurs**, l'**Altair 8800**.
+
+### L'Altair 8800 et Microsoft
+En 1975, deux étudiants de l'université Harvard, Paul Allen et Bill Gates, voient l'Altair 8800 à la une de la revue **_Popular Electronics_**. Puisque ce microordinateur n'a pas d'écran ou de clavier, il doit être programmé avec des interupteurs. 
+
+![](https://upload.wikimedia.org/wikipedia/en/c/cb/Popular_Electronics_Cover_Jan_1975.jpg)
+**Figure** — _Popular Electronics_, janvier 1975
+
+
 
