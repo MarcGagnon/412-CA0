@@ -55,5 +55,13 @@ En 1975, deux étudiants de l'université Harvard, Paul Allen et Bill Gates, voi
 
 **Figure** — _Popular Electronics_, janvier 1975
 
+### Les premiers ordinateurs personnels
+
+### Unités de mesure en informatique
+
+### Composantes de l'ordinateur
+
+### Types de logiciels
+
 
 
