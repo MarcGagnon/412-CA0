@@ -1,4 +1,4 @@
-# Table des matières
+# Summary
 
 * [412-CA0](README.md)
 * [Table des matières](SUMMARY.md)
@@ -26,5 +26,6 @@
 * [PowerPoint : Dessiner avec les formes](powerpoint-dessiner-avec-les-formes.md)
 * [PowerPoint : Transitions](powerpoint-transitions.md)
 * [PowerPoint : Animations](powerpoint-animations.md)
+* [PowerPoint : Liens, actions et menus](powerpoint-liens-actions-menus.md)
 * [Règles de design pour non designers](regles-de-design-pour-non-designers.md)
 
