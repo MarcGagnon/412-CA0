@@ -1,0 +1,1 @@
+# Word : Insertion et manipulation de texte
