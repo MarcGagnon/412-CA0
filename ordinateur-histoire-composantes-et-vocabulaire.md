@@ -64,7 +64,7 @@ En 1975, deux étudiants de l'université Harvard, Paul Allen et Bill Gates, voi
 
 En 1976, Steve Wozniak et Steve Jobs présentent l'**Apple I** au _Homebrew Computer Club_ de Palo Alto en Californie. Il s'agit seulement d'une **carte-mère** sur laquelle un amateur doit connecter un bloc d'alimentation, un clavier, un téléviseur et un enregistreur cassette pour assembler son propre **ordinateur personnel**. L'Apple I coûte 666,66&nbsp;$ (3&nbsp;600&nbsp;$ en dollars canadiens d'aujourd'hui). Seulement 200 unités seront vendues.
 
-Un an plus tard, Steve Jobs insiste pour que l'Apple I soit intégré dans un boitier de plastique, avec un bloc d'alimentation et un clavier. Tout le monde peut désormais posséder un ordinateur personnel et le brancher à un téléviseur. Malgré son prix élevé (1&nbsp;298&nbsp;$, ou 7&nbsp;000&nbsp;$ en dollars canadiens d'aujourd'hui), l'**Apple II** est un succès instantané. L'entrée en bourse d'**Apple Computers** fait de Wozniak, Jobs et quelques-uns des premiers employés des millionaires instantanés.
+Un an plus tard, Steve Jobs insiste pour que l'Apple I soit intégré dans un boitier de plastique, avec un bloc d'alimentation et un clavier. Tout le monde peut désormais posséder un ordinateur personnel et le brancher à un téléviseur. Malgré son prix élevé de 1&nbsp;298&nbsp;$ (7&nbsp;000&nbsp;$ en dollars canadiens d'aujourd'hui), l'**Apple II** est un succès instantané. L'entrée en bourse d'**Apple Computers** fait de Wozniak, Jobs et quelques-uns des premiers employés des millionaires instantanés.
 
 #### IBM PC
 
