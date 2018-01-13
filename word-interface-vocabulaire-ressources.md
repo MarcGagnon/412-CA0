@@ -4,6 +4,5 @@
 
 ## Ressources gratuites et payantes
 
-Est-ce la bonne version?
-
+6
 [Table des matières](SUMMARY.md)
