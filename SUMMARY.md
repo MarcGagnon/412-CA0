@@ -1,7 +1,6 @@
 # Summary
 
-* [412-CA0](README.md)
-* [Table des matières](SUMMARY.md)
+* [Introduction](README.md)
 * [Histoire de l'ordinateur](histoire-de-l-ordinateur.md)
 * [Vocabulaire informatique](vocabulaire-informatique.md)
 * [Windows et organisation de dossiers](windows-et-organisation-de-dossiers.md)
