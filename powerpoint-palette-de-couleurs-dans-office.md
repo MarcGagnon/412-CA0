@@ -1,1 +1,1 @@
-# PowerPoint : Palette de couleurs dans Office
+# PowerPoint —<br>Palette de couleurs dans Office

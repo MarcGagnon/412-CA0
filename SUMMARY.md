@@ -26,4 +26,5 @@
 * [PowerPoint : Dessiner avec les formes](powerpoint-dessiner-avec-les-formes.md)
 * [PowerPoint : Transitions](powerpoint-transitions.md)
 * [PowerPoint : Animations](powerpoint-animations.md)
+* [Règles de design pour non designers](regles-de-design-pour-non-designers.md)
 

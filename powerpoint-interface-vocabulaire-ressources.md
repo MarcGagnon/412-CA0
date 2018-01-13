@@ -1,4 +1,4 @@
-# PowerPoint : Interface, vocabulaire et ressources
+# PowerPoint —<br>Interface, vocabulaire et ressources
 
 ## Interface de PowerPoint
 

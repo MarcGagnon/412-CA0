@@ -1,1 +1,1 @@
-# Word : Mise en forme de paragraphes
+# Word —<br>Mise en forme de paragraphes

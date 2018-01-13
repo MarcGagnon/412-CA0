@@ -1,1 +1,1 @@
-# Word : Insertion et manipulation d'images
+# Word —<br>Insertion et manipulation d'images

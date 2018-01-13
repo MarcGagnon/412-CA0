@@ -1,1 +1,1 @@
-# Word : Mise en forme de caractères
+# Word —<br>Mise en forme de caractères

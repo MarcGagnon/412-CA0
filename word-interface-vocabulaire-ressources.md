@@ -1,4 +1,4 @@
-# Word : Interface, vocabulaire et ressources
+# Word —<br>Interface, vocabulaire et ressources
 
 ## Interface de Word
 
