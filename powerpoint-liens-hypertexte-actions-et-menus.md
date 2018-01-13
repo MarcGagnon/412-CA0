@@ -1,1 +1,1 @@
-# PowerPoint : Liens hypertexte, actions et menus
+# PowerPoint : Liens, actions et menus
