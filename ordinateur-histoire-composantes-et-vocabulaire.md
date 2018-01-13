@@ -66,9 +66,9 @@ En 1976, Steve Wozniak et Steve Jobs présentent l'**Apple I** au _Homebrew Comp
 
 Un an plus tard, Steve Jobs insiste pour que l'Apple I soit intégré dans un boitier de plastique, avec un bloc d'alimentation et un clavier. Tout le monde peut désormais posséder un ordinateur personnel et le brancher à un téléviseur. Malgré son prix élevé de 1&nbsp;298&nbsp;$ (7&nbsp;000&nbsp;$ en dollars canadiens d'aujourd'hui), l'**Apple II** est un succès instantané. L'entrée en bourse d'**Apple Computers** fait de Wozniak, Jobs et quelques-uns des premiers employés des millionaires instantanés.
 
-#### IBM PC
+#### IBM-PC
 
-En 1980, le géant **IBM** qui se spécialisait jusque-là dans les gros ordinateurs d'entreprises, s'introduit sur le marché de l'ordinateur personnel en lançant l'**IBM-PC** (pour IBM _Personal Computer_). L'IBM-PC est équipé du **système d'exploitation** DOS (_Disk Operating System_) de Microsoft. IBM n'ayant pas exigé d'exclusivité de la part de Microsoft, cette dernière vendra son DOS à plusieurs autres manufacturiers d'ordinateurs personnels. La stratégie de Bill Gates était claire : dominer le monde non en fabriquant des ordinateurs, mais plutôt en installant ses logiciels sur ceux de **tous** les manufacturiers!
+En 1980, le géant **IBM** qui se spécialisait jusque-là dans les gros ordinateurs d'entreprises, arrive sur le marché de l'ordinateur personnel en lançant l'**IBM-PC** (pour IBM _Personal Computer_). L'IBM-PC est équipé du **système d'exploitation** DOS (_Disk Operating System_) de Microsoft. IBM n'ayant pas exigé d'exclusivité de la part de Microsoft, cette dernière vendra son DOS à plusieurs autres manufacturiers d'ordinateurs personnels. La stratégie de Bill Gates était claire : dominer le monde non en fabriquant des ordinateurs, mais plutôt en installant ses logiciels sur ceux de **tous** les manufacturiers!
 
 #### Lisa, le MacIntosh et Microsoft Windows
 
