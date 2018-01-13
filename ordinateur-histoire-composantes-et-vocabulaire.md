@@ -62,15 +62,23 @@ En 1975, deux étudiants de l'université Harvard, Paul Allen et Bill Gates, voi
 
 #### Apple I et Apple II
 
-En 1976, Steve Wozniak et Steve Jobs présentent l'**Apple I** au _Homebrew Computer Club_ de Palo Alto en Californie. Il s'agit seulement d'une **carte-mère** sur laquelle un amateur peut connecter un clavier, un téléviseur et un enregistreur cassette pour assembler son propre **ordinateur personnel**. L'Apple I coûte 666,66&nbsp;$ (3&nbsp;600&nbsp;$ en dollars canadiens d'aujourd'hui). Seulement 200 unités seront vendues.
+En 1976, Steve Wozniak et Steve Jobs présentent l'**Apple I** au _Homebrew Computer Club_ de Palo Alto en Californie. Il s'agit seulement d'une **carte-mère** sur laquelle un amateur peut connecter un bloc d'alimentation, un clavier, un téléviseur et un enregistreur cassette pour assembler son propre **ordinateur personnel**. L'Apple I coûte 666,66&nbsp;$ (3&nbsp;600&nbsp;$ en dollars canadiens d'aujourd'hui). Seulement 200 unités seront vendues.
 
-Un an plus tard, 
-
-#### Atari, Commodore et les autres
+Un an plus tard, Steve Jobs insiste pour que l'Apple I soit intégré dans un boitier de plastique, avec un bloc d'alimentation et un clavier. Tout le monde peut désormais posséder un ordinateur personnel et le brancher à un téléviseur. Malgré son prix (1&nbsp;298&nbsp;$, ou 77&nbsp;000&nbsp;$ en dollars canadiens d'aujourd'hui), l'**Apple II** est un succès instantané. L'entrée en bourse d'**Apple Computers** fait de Wozniak, Jobs et quelques-uns des premiers employés des millionaires instantanés.
 
 #### IBM PC
 
-#### Lisa et le MacIntosh
+En 1980, le géant **IBM** qui se spécialisait jusque-là dans les gros ordinateurs d'entreprises, s'introduit sur le marché de l'ordinateur personnel en lançant l'**IBM-PC** (pour IBM _Personal Computer_). L'IBM-PC est équipé du **système d'exploitation** DOS (_Disk Operating System_) de Microsoft. IBM n'ayant pas exigé d'exclusivité de la part de Microsoft, cette dernière vendra son DOS à plusieurs autres manufacturiers d'ordinateurs personnels. La stratégie de Bill Gates était claire : dominer le monde non en fabriquant des ordinateurs, mais plutôt en installant ses logiciels sur ceux de **tous** les manufacturiers!
+
+#### Lisa, le MacIntosh et Microsoft Windows
+
+Au début des années 80, lors d'une visite au _Palo Alto Research Center_ (PARC) de la société **Xerox**, Steve Jobs voit une démonstration d'un ordinateur fonctionnant avec une **interface graphique** et une **souris**. Xerox n'a que faire d'un ordinateur personnel à interface graphique, jugeant que sa mission est de vendre des équipements de reproduction de documents.
+
+Apple développe alors l'ordinateur **Lisa**, lui-même doté d'une interface graphique et d'une souris. Cet ordinateur est cependant trop coûteux à produire et ne peut être vendu commercialement.
+
+Lors du _Superbowl_ 1984, Apple lance le **MacIntosh**, le premier ordinateur personnel doté d'une interface graphique et d'une souris vendu commercialement. Cet ordinateur révolutionne l'informatique en la rendant accessible au plus grand nombre. Tout le monde peut désormais **cliquer** sur une **icône** pour lancer un programme ou **glisser** un document dans la **corbeille** pour le supprimer.
+
+Un an plus tard, Microsoft lance la première version de **Windows**, son propre système d'exploitation à interface graphique. Ce n'est cependant qu'à partir de la version 3.1 (1992-2001), puis Windows&nbsp;95 (1995-2001), que Windows s'établit comme système d'exploitation standard sur presque tous les ordinateurs personnels vendus.
 
 ### Unités de mesure en informatique
 
