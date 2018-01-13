@@ -78,4 +78,6 @@ Lors du _Superbowl_ 1984, Apple lance le **MacIntosh**, le premier ordinateur pe
 
 Un an plus tard, Microsoft lance la première version de **Windows**, son propre système d'exploitation à interface graphique. Ce n'est cependant qu'à partir de la version **3.1** (1992-2001), puis de **Windows&nbsp;95** (1995-2001), que Windows s'établit comme système d'exploitation standard sur presque tous les ordinateurs personnels vendus.
 
+[Table des matières](SUMMARY.md)
+
 

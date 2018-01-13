@@ -3,3 +3,5 @@
 ## Interface de PowerPoint
 
 ## Ressources gratuites et payantes
+
+[Table des matières](SUMMARY.md)
