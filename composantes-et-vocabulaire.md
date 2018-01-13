@@ -1,8 +1,8 @@
 # Composantes et vocabulaire
 
-## Unités de mesure en informatique
-
 ## Composantes de l'ordinateur
+
+## Unités de mesure en informatique
 
 ## Types de logiciels
 
