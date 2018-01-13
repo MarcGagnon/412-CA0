@@ -4,7 +4,7 @@
 
 ### Les premiers ordinateurs
 
-Les premiers ordinateurs étaient des **calculateurs** monstres qui remplissaient de grandes pièces. L'**ENIAC** \(1946\), le premier ordinateur entièrement électronique, pesait 30 tonnes. Pour fonctionner, il utilisait plus de 19 000 **tubes à vide** \(lampes\). Les tubes à vide ayant seulement deux états possibles, allumés ou éteints, ceux-ci pouvaient servir à représenter de l'information dans la forme **binaire**, c'est-à-dire que chaque tube pouvait représenter soit un **0** \(éteint\) ou un **1** \(allumé\).
+Les premiers ordinateurs étaient des **calculateurs** monstres qui remplissaient de grandes pièces. L'**ENIAC** \(1946\), le premier ordinateur entièrement électronique, pesait 30 tonnes. Pour fonctionner, il utilisait plus de 19 000 **tubes à vide** \(lampes\). Les tubes à vide ayant seulement deux états possibles, allumés ou éteints, ceux-ci pouvaient servir à représenter de l'information dans la forme **binaire**, c'est-à-dire que chaque tube pouvait représenter soit un **0** \(éteint\) ou un **1** \(allumé\).
 
 ![](/assets/ENIAC.png)
 
@@ -44,31 +44,47 @@ Ainsi, au lieu d'être composés de 19 000 lampes dans une grande pièce, les or
 
 ### Le processeur et le microprocesseur
 
-En 1971, la société Intel de Californie lance le premier **microprocesseur** commercial, l'**Intel 4004**. Un microprocesseur est un **processeur** miniaturisé qui exécute les instructions transmises par un **programme informatique**, les place en mémoire pour référence future. On l'appelle aussi **unité centrale de traitement** \(**UCT**, ou **CPU** en anglais, pour _Central Processing Unit_\). Le Intel 4004 était ainsi plus petit que le bout d'un doigt, tout en étant plus puissant que l'ENIAC de 30 tonnes! Il contenait 2&nbsp;300 transistors et pouvait réaliser plus de 90&nbsp;000 opérations par seconde... pour la modique somme de 200$. Il a surtout servi à produire des **calculatrices**.
+En 1971, la société Intel de Californie lance le premier **microprocesseur** commercial, l'**Intel 4004**. Un microprocesseur est un **processeur** miniaturisé qui exécute les instructions transmises par un **programme informatique**, les place en mémoire pour référence future. On l'appelle aussi **unité centrale de traitement** \(**UCT**, ou **CPU** en anglais, pour _Central Processing Unit_\). Le Intel 4004 était ainsi plus petit que le bout d'un doigt, tout en étant plus puissant que l'ENIAC de 30 tonnes! Il contenait 2 300 transistors et pouvait réaliser plus de 90 000 opérations par seconde... pour la modique somme de 200$. Il a surtout servi à produire des **calculatrices**.
 
 Quelques années plus tard,en 1974, Intel lance un microprocesseur qui change le monde, l'**Intel 8080**. Ce microprocesseur est à l'origine d'un des premiers **microordinateurs**, l'**Altair 8800**.
 
 ### L'Altair 8800 et Microsoft
-En 1975, deux étudiants de l'université Harvard, Paul Allen et Bill Gates, voient l'Altair 8800 à la une de la revue **_Popular Electronics_**. Puisque ce microordinateur n'a pas d'écran ou de clavier, il doit être programmé avec des interupteurs. Allen et Gates voient donc l'opportunité de créer un
 
-![www.google.com](https://upload.wikimedia.org/wikipedia/en/c/cb/Popular_Electronics_Cover_Jan_1975.jpg)
+En 1975, deux étudiants de l'université Harvard, Paul Allen et Bill Gates, voient l'Altair 8800 à la une de la revue _**Popular Electronics**_. Puisque ce microordinateur n'a pas d'écran ou de clavier, il doit être programmé avec des **interupteurs**. Allen et Gates voient donc l'opportunité de créer un **langage de programmation** simple pour l'Altair afin que celui-ci soit programmable à partir d'un clavier. Ils fondent ensemble la société **Microsoft** pour vendre l'**Altair BASIC**. Quelques années plus tard, **MS-DOS**, **Windows** et la suite **Office** leur permettront de faire fortune et de faire de Microsoft un géant de l'informatique.
+
+![Page couverture du magazine Popular Electronics de janvier 1975](https://upload.wikimedia.org/wikipedia/en/c/cb/Popular_Electronics_Cover_Jan_1975.jpg)
 
 **Figure** — _Popular Electronics_, janvier 1975
 
 ### Les premiers ordinateurs personnels
 
-#### Apple I
+À cette époque, le développement de l'informatique «&nbsp;personnelle&nbsp;» s'accélère. Des amateurs se rencontrent dans des clubs et groupes pour partager leurs expériences et découvertes dans le but de réussir à construire un ordinateur personnel.
 
-#### Apple II
+#### Apple I et Apple II
+
+En 1976, Steve Wozniak et Steve Jobs présentent l'**Apple I** au _Homebrew Computer Club_ de Palo Alto en Californie. Il s'agit seulement d'une **carte-mère** sur laquelle un amateur peut connecter un clavier, un téléviseur et un enregistreur cassette pour assembler son propre **ordinateur personnel**. L'Apple I coûte 666,66&nbsp;$ (3&nbsp;600&nbsp;$ en dollars canadiens d'aujourd'hui). Seulement 200 unités seront vendues.
+
+Un an plus tard, 
+
+#### Atari, Commodore et les autres
 
 #### IBM PC
 
+#### Lisa et le MacIntosh
 
 ### Unités de mesure en informatique
 
 ### Composantes de l'ordinateur
 
 ### Types de logiciels
+
+#### Systèmes d'exploitation
+
+#### Logiciels de développement
+
+#### Logiciels d'application courante
+
+#### Utilitaires
 
 
 
