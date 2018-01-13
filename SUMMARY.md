@@ -1,4 +1,4 @@
-# Summary
+# Table des matières
 
 * [Introduction](README.md)
 * [Histoire de l'ordinateur](histoire-de-l-ordinateur.md)
