@@ -32,7 +32,7 @@ Cependant, les premiers transistors « individuels » ont un inconvénient de ta
 
 ## Le circuit intégré
 
-En 1958, Jack Kilby de la société Texas Instruments invente le **circuit intégré**. Il s'agit d'une plaque, parfois appelée une **puce**, sur laquelle on regroupe plusieurs milliers, millions ou milliards de **transistors** de taille microscopique, sans avoir à les souder entre eux. De petites pattes ou broches permettent de fixer les puces et circuits intégrés sur une **carte**, pour créer des appareils électroniques plus complexes \(calculatrices, téléphones, montres, jeux électroniques, fours microondes, téléviseurs, ordinateurs, etc.\).
+En 1958, Jack Kilby de la société Texas Instruments invente le **circuit intégré**. Il s'agit d'une plaque, parfois appelée une **puce**, sur laquelle on regroupe plusieurs milliers, millions ou milliards de **transistors** de taille microscopique, sans avoir à les souder entre eux. De petites pattes ou broches permettent de fixer les puces et circuits intégrés sur un **circuit imprimé** aussi nommé **carte électronique**, pour créer des appareils plus complexes \(calculatrices, téléphones, montres, jeux électroniques, fours microondes, téléviseurs, ordinateurs, etc.\).
 
 Ainsi, au lieu d'être composés de 19&nbsp;000 lampes dans une grande pièce, les ordinateurs d'aujourd'hui comportent plusieurs milliards de transistors pouvant représenter l'information sous forme **binaire** : **0** \(fermés\) ou **1** \(ouverts\).
 
