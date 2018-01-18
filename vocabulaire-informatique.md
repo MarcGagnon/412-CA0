@@ -39,7 +39,8 @@ La **mémoire vive** (RAM en anglais, pour **R**andom **A**ccess **M**emory) est
 
 Un **disque dur** est un
 
-
+![Disques durs IDE/SATA et SSD](/assets/disques-dur-sata-et-ssd.jpg)
+Figure — Disques durs IDE/SATA (A) et SSD (B)
 
 ### Cartes filles
 
