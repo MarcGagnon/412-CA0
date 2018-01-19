@@ -60,7 +60,7 @@ Les **cartes filles** par analogie avec la carte mère de l'ordinateur, sont des
 
 Depuis les années 70, l'**écran** est le périphérique de sortie principal de l'ordinateur. C'est par lui que l'utilisateur voit le résultat de ses interactions avec la machine. L'écran affiche ce que la **carte graphique** (ou carte d'accélération vidéo) lui envoie. 
 
-Il existe plusieurs types d'écrans. Les anciens **écrans cathodiques**, lourds et encombrants sont de moins en moins utilisés, mais on en trouve encore quelques-uns. Les écrans à cristaux liquides (**LCD**), au **plasma** et aux **DEL** les remplacent maintenant.
+Il existe plusieurs types d'écrans. Les anciens **écrans cathodiques**, lourds et encombrants sont de moins en moins utilisés, mais on en trouve encore quelques-uns. Les écrans à cristaux liquides (**LCD**), au **plasma** et à      **DEL** les remplacent maintenant.
 
 ### Clavier
 
