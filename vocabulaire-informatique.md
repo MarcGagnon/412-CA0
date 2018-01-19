@@ -64,6 +64,23 @@ Il existe plusieurs types d'écrans. Les anciens **écrans cathodiques**, lourds
 
 ### Clavier
 
+Le **clavier** est le périphérique d'entrée principal sur un ordinateur. Bien avant la souris et les interfaces graphiques, toutes les commandes devaient être passées à l'ordinateur par le clavier. Encore aujourd'hui, c'est la façon la plus rapide et la plus efficace d'entrer des données. 
+
+Le clavier contient différents types de touches :
+
+**Alphanumériques, accents et symboles :** ces touches servent à entrer les **lettres**, les **chiffres**, les **accents** et les **symboles** à l'aide du clavier. Certains claviers ont un **pavé numérique** à la droite, idéal pour l'entrée de données comptables ou financières.
+
+**Touches de modification :** certaines touches permettent de modifier la valeur ou le caractère entré en appuyant simultanément sur celle-ci et sur un caractère. Par exemple, la touche **Maj** transforme toutes les lettres en majuscules. La même touche **Maj** et les chiffres de 1 à 0 permettent d'entrer les symboles :  !"/$%?&\*().
+
+La touche **AltCar**, permet d'entrer d'autres symboles. Par exemple, **AltCar+2** génère un @, essentiel à l'écriture d'une adresse courriel.
+
+Les  touches **Fn**, **Ctrl**, **Windows** et **Alt** permettent de passer des commandes à l'ordinateur en les combinant aux différents chiffres et caractères pour composer des **raccourcis clavier**. Par exemple, le raccourci **Ctrl+Z** permet d'annuler la dernière action, **Ctrl+S** de sauvegarder un document, **Win+E** d'ouvrir une fenêtre de l'explorateur Windows et **Win+D** d'afficher le bureau (D pour Desktop).
+
+**Touches de fonctions :** les claviers standards disposent de 12 touches de fonctions allant de **F1** à **F12**. Les logiciels utilisent ces touches pour donner un accès rapide à des fonctions fréquemment utilisées. Par exemple, la touche **F1** est habituellement réservée au lancement de la **fonction d'aide**.
+
+**Les touches de déplacements  :** les **flèches** permettent de déplacer le curseur à l'écran dans leurs directions respectives. Il y a aussi des touches pour avancer ou reculer d'une page (souvent représentées par **PgAv**, **PgAr** ou un symbole de flèche hachurée). Des touches **Début** et **Fin**, parfois représentées par une flèche diagonale vers le haut à gauche et une diagonale vers le bas à droite, permettent d'atteindre plus rapidement le début ou la fin d'une ligne ou d'un document.
+
+
 ### Souris
 
 ### Autres périphériques d'entrée et de sortie
@@ -83,6 +100,15 @@ Il existe plusieurs types d'écrans. Les anciens **écrans cathodiques**, lourds
 ## Types de logiciels
 
 ### Systèmes d'exploitation
+
+#### Windows
+
+#### OS X
+
+#### Linux
+
+#### iOS, Android et Windows Mobile
+
 
 ### Logiciels de développement
 
