@@ -39,16 +39,28 @@ La **mémoire vive** (RAM en anglais, pour **R**andom **A**ccess **M**emory) est
 
 Un **disque dur** est un support rigide magnétique sur lequel sont enregistrées des informations de manière permanente. C'est le principal moyen de **stockage de données** sur les ordinateurs d'aujourd'hui.
 
-Les disques durs les plus populaires et abordables fonctionnent avec des plateaux circulaires magnétiques qui tournent des vitesses de 5&nbsp;400, 7&nbsp;200 et même jusqu'à 15&nbsp;000 rotations par minute (RPM). Ces disques sont munis d'une **tête** de lecture et d'écriture qui se déplace pour trouver les données sur les **pistes** et les **secteurs** du disque (voir A, dans la figure ci-dessous). Bien que les disques durs soient généralement fiables et performants, toutes ces pièces mobiles les rendent vulnérables à des bris et des pannes pouvant ultimement mener à des **pertes de données**.
+Les disques durs les plus populaires et abordables fonctionnent avec des plateaux circulaires magnétiques qui tournent des vitesses de 5&nbsp;400, 7&nbsp;200 et même jusqu'à 15&nbsp;000 rotations par minute (RPM). Ces disques souvent appelés par le nom de leur interface, **IDE** ou **SATA**, sont munis d'une **tête** de lecture et d'écriture qui se déplace pour trouver les données sur les **pistes** et les **secteurs** du disque (voir A, dans la figure ci-dessous). Bien que les disques durs IDE/SATA soient généralement fiables et performants, toutes ces pièces mobiles les rendent vulnérables à des bris et des pannes pouvant ultimement mener à des **pertes de données**.
 
 Les disques durs _**S**olid **S**tate **D**rive_ (SSD) sont quant à eux fabriqués avec plusieurs puces de **mémoire Flash**, semblables à celles utilisées dans les appareils photos et les téléphones (voir B, dans la figure ci-dessous). Ces disques sont plus petits et beaucoup plus rapides que les disques mécaniques. Ils sont aussi beaucoup moins vulnérable aux bris, puisqu'ils n'ont aucune pièce amovible. Dans la dernière décennie, le rapport capacité/prix de ces disques a énormément augmenté, les rendant abordables pour les **ordinateurs portables**.
+
+Voir aussi : [Disque dur sur Comment ça marche](http://www.commentcamarche.net/contents/740-disque-dur-externe-ou-interne "Lien vers la page « Disque dur » sur le site Comment ça marche")
 
 ![Disques durs IDE/SATA et SSD](/assets/disques-dur-sata-et-ssd.jpg)
 **Figure** — Disques durs IDE/SATA (A) et SSD (B)
 
 ### Cartes filles
 
+Les **cartes filles** par analogie avec la carte mère de l'ordinateur, sont des cartes spécialisées qui se branchent sur cette dernière. Il existe plusieurs types de cartes filles telles que les **cartes d'accélération vidéo**, les **cartes de son** et les **cartes réseau**.
+
+![Carte de son](/assets/carte-de-son.jpg)
+**Figure** — Exemple de carte fille : une **carte de son** spécialisée
+
+
 ### Écran
+
+Depuis les années 70, l'**écran** est le périphérique de sortie principal de l'ordinateur. C'est par lui que l'utilisateur voit le résultat de ses interactions avec la machine. L'écran affiche ce que la **carte graphique** (ou carte d'accélération vidéo) lui envoie. 
+
+Il existe plusieurs types d'écrans. Les anciens **écrans cathodiques**, lourds et encombrants sont de moins en moins utilisés, mais on en trouve encore quelques-uns. Les écrans à cristaux liquides (**LCD**), au **plasma** et aux **DEL** les remplacent maintenant.
 
 ### Clavier
 
