@@ -37,10 +37,14 @@ La **mémoire vive** (RAM en anglais, pour **R**andom **A**ccess **M**emory) est
 
 ### Disque dur
 
-Un **disque dur** est un
+Un **disque dur** est un support rigide magnétique sur lequel sont enregistrées des informations de manière permanente. C'est le principal moyen de **stockage de données** sur les ordinateurs d'aujourd'hui.
+
+Les disques durs les plus populaires et abordables fonctionnent avec des plateaux circulaires magnétiques qui tournent des vitesses de 5&nbsp;400, 7&nbsp;200 et même jusqu'à 15&nbsp;000 rotations par minute (RPM). Ces disques sont munis d'une **tête** de lecture et d'écriture qui se déplace pour trouver les données sur les **pistes** et les **secteurs** du disque (voir A, dans la figure ci-dessous). Bien que les disques durs soient généralement fiables et performants, toutes ces pièces mobiles les rendent vulnérables à des bris et des pannes pouvant ultimement mener à des **pertes de données**.
+
+Les disques durs _**S**olid **S**tate **D**rive_ (SSD) sont quant à eux fabriqués avec plusieurs puces de **mémoire Flash**, semblables à celles utilisées dans les appareils photos et les téléphones (voir B, dans la figure ci-dessous). Ces disques sont plus petits et beaucoup plus rapides que les disques mécaniques. Ils sont aussi beaucoup moins vulnérable aux bris, puisqu'ils n'ont aucune pièce amovible. Dans la dernière décennie, le rapport capacité/prix de ces disques a énormément augmenté, les rendant abordables pour les **ordinateurs portables**.
 
 ![Disques durs IDE/SATA et SSD](/assets/disques-dur-sata-et-ssd.jpg)
-Figure — Disques durs IDE/SATA (A) et SSD (B)
+**Figure** — Disques durs IDE/SATA (A) et SSD (B)
 
 ### Cartes filles
 
