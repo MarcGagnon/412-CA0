@@ -115,13 +115,19 @@ L'**octet** est un groupe de huit bits avec lequel il est possible de représent
 
 ### Kilo, méga, giga, tera, etc.
 
+
+
+
+
+
+
+
 **Kilooctet** (Ko) : mille octets
 **Mégaoctet** (Mo) : mille kilooctets, soit un million d'octets
 **Gigaoctet** (Go) : mille mégaoctets, soit un milliard d'octets
 **Teraoctet** (To) : mille gigaoctets, soit un billion d'octets
 **Petaoctet** (Po) : mille teraoctets, soit un mille billions d'octets
 **Exaoctet** (Eo) : mille petaoctets, soit... beaucoup d'octets!
-
 
 
 ### Mégahertz et gigahertz
