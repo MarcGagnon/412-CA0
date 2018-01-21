@@ -80,20 +80,53 @@ Les  touches **Fn**, **Ctrl**, **Windows** et **Alt** permettent de passer des c
 
 **Les touches de déplacements  :** les **flèches** permettent de déplacer le curseur à l'écran dans leurs directions respectives. Il y a aussi des touches pour avancer ou reculer d'une page (souvent représentées par **PgAv**, **PgAr** ou un symbole de flèche hachurée). Des touches **Début** et **Fin**, parfois représentées par une flèche diagonale vers le haut à gauche et une diagonale vers le bas à droite, permettent d'atteindre plus rapidement le début ou la fin d'une ligne ou d'un document.
 
-
 ### Souris
 
-### Autres périphériques d'entrée et de sortie
+La **souris** a entièrement transformé la façon d'utiliser l'ordinateur. Avec l'arrivée des interfaces graphiques (avec le MacIntosh en 1984, puis Windows par la suite), l'utilisateur peut désormais passer des commandes à l'ordinateur en dirigeant un **pointeur** vers des items de **menus** et des commandes représentées par des **icônes** puis en cliquant sur le **bouton** de la souris.
 
+Sur les souris à deux boutons, le bouton de droite permet de faire apparaitre un **menu contextuel** permettant à l'utilisateur de voir un menu avec un nombre restreint  d'options, pertinentes à sa situation actuelle.
+
+<!-- Insérer une image de souris -->
+
+<!--
+### Autres périphériques d'entrée et de sortie
+-->
 ## Unités de mesure en informatique
+
+Les documents et fichiers créés sur un ordinateur occupent de l'**espace mémoire** et de l'**espace disque**. Il est donc utile de connaitre les différentes unités de mesure en informatique.
 
 ### Bit
 
+Le **bit** est la plus petite unité d'information traitée par un ordinateur. Il s'agit d'une valeur **binaire**, soit un **0** ou un **1**. Voici quelques exemples de valeurs représentées par des bits dans le système binaire :
+
+0 : 0
+1 : 1
+2 : 10 (puisqu'il n'y plus d'unités, on passe à la 'dizaine')
+3 : 11 (deux plus un)
+4 : 100
+5 : 101
+6 : 110
+7 : 111
+8 : 1000
+
 ### Octet
+
+L'**octet** est un groupe de huit bits avec lequel il est possible de représenter jusqu'à 256 valeurs, soit 2 exposant 8 combinaisons possibles. Les octets peuvent être utilisés pour représenter des **caractères** comme des **lettres** et des **symboles**.
 
 ### Kilo, méga, giga, tera, etc.
 
+**Kilooctet** (Ko) : mille octets
+**Mégaoctet** (Mo) : mille kilooctets, soit un million d'octets
+**Gigaoctet** (Go) : mille mégaoctets, soit un milliard d'octets
+**Teraoctet** (To) : mille gigaoctets, soit un billion d'octets
+**Petaoctet** (Po) : mille teraoctets, soit un mille billions d'octets
+**Exaoctet** (Eo) : mille petaoctets, soit... beaucoup d'octets!
+
+
+
 ### Mégahertz et gigahertz
+
+Un
 
 ### Mégapixels
 
