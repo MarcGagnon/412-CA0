@@ -141,13 +141,13 @@ Prenons par exemple, la courte description suivante :
 
 **HP - Portatif 17-AR007CA 17,3 po, 2,7 GHz AMD A12-9720P, DD 2 To, DDR4 SDRAM 12 Go, Windows 10 Famille**
 
-**Fabriquant :** Hewlett Packard (HP)\n
-**Type d'ordinateur :** Portable (portatif)\n
-**Modèle :** 17-AR007CA\n
-**Taille de l'écran :** 17,3 pouces\n
-**Microprocesseur :** AMD A12-9720P 2,7 gigahertz (GHz)\n
-**Disque dur :** 2 teraoctets (To)\n
-**Mémoire vive :** 12 gigaoctets (Go)\n
+**Fabriquant :** Hewlett Packard (HP)<br>
+**Type d'ordinateur :** Portable (portatif)<br>
+**Modèle :** 17-AR007CA<br>
+**Taille de l'écran :** 17,3 pouces<br>
+**Microprocesseur :** AMD A12-9720P 2,7 gigahertz (GHz)<br>
+**Disque dur :** 2 teraoctets (To)<br>
+**Mémoire vive :** 12 gigaoctets (Go)<br>
 **Système d'exploitation :** Windows 10 Famille
 
 ## Types de logiciels
@@ -164,13 +164,13 @@ C'est à travers le système d'exploitation que les autres **applications** ou l
 
 Le système d'exploitation **Windows**, commercialisé par la société **Microsoft**, est de loin le système d'exploitation le plus populaire sur le marché. Il est installé sur plus de 90&nbsp;% des ordinateurs personnels. Voici une liste partielle de quelques-unes des versions les plus populaires de Windows :
 
-**Windows 3.1** (première version complète et stable)\n
-**Windows 95**  (premier véritable succès commercial)\n
+**Windows 3.1** (première version complète et stable)<br>
+**Windows 95**  (premier véritable succès commercial)<br>
 **Windows NT** (version « réseau » ou d'entreprise)\n
-**Windows XP**\n (version stable)\n
-**Windows Vista** (a connu plusieurs ratés)\n
-**Windows 7** (version stable)\n
-**Windows 8** (a connu plusieurs ratés)\n
+**Windows XP**\n (version stable)<br>
+**Windows Vista** (a connu plusieurs ratés)<br>
+**Windows 7** (version stable)<br>
+**Windows 8** (a connu plusieurs ratés)<br>
 **Windows 10**
 
  Ce n'est pas un oubli, il n'y a pas eu de version Windows 9. La version courante actuelle est **Windows&nbsp;10**, plus légère que les précédentes en espace disque et plutôt stable pour l'instant. Croisons nos doigts!
