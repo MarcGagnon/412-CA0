@@ -99,14 +99,14 @@ Les documents et fichiers créés sur un ordinateur occupent de l'**espace mémo
 
 Le **bit** est la plus petite unité d'information traitée par un ordinateur. Il s'agit d'une valeur **binaire**, soit un **0** ou un **1**. Voici quelques exemples de valeurs représentées par des bits dans le système binaire :
 
-0 : 0
-1 : 1
-2 : 10 (puisqu'il n'y plus d'unités, on passe à la 'dizaine')
-3 : 11 (deux plus un)
-4 : 100
-5 : 101
-6 : 110
-7 : 111
+0 : 0<br>
+1 : 1<br>
+2 : 10 (puisqu'il n'y plus d'unités, on passe à la 'dizaine')<br>
+3 : 11 (deux plus un)<br>
+4 : 100<br>
+5 : 101<br>
+6 : 110<br>
+7 : 111<br>
 8 : 1000
 
 ### Octet
