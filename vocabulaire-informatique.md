@@ -131,7 +131,24 @@ Les unités de mesure ci-dessous sont utilisées pour représenter l'espace qu'o
 
 ### Mégahertz et gigahertz
 
-### Mégapixels
+Lors de l'achat d'un ordinateur personnel, on voit presque toujours une valeur exprimée en **gigahertz** (GHz). Cette valeur représente la vitesse, en cycles, de l'horloge interne du microprocesseur. Il faut savoir que pour deux ordinateurs ayant la **même architecture de microprocesseur**, celui ayant la plus haute valeur en **GHz** sera le plus rapide à traiter les données.
+
+### Achat d'un ordinateur
+
+À partir de vos nouvelles connaissances sur les composantes de l'ordinateur et le vocabulaire informatique, êtes-vous en mesure de mieux comprendre les **spécifications d'un ordinateur** sur un site d'achat en ligne? Allez sur le site d'un commerçant populaire pour faire quelques recherches pour un **ordinateur de bureau**, ainsi qu'un **ordinateur portable**.
+
+Prenons par exemple, la courte description suivante :
+
+**HP - Portatif 17-AR007CA 17,3 po, 2,7 GHz AMD A12-9720P, DD 2 To, DDR4 SDRAM 12 Go, Windows 10 Famille**
+
+**Fabriquant :** Hewlett Packard (HP)
+**Type d'ordinateur :** Portable (portatif)
+**Modèle :** 17-AR007CA
+**Taille de l'écran :** 17,3 pouces
+**Microprocesseur :** AMD A12-9720P 2,7 gigahertz (GHz)
+**Disque dur :** 2 teraoctets (To)
+**Mémoire vive :** 12 gigaoctets (Go)
+**Système d'exploitation :** Windows 10 Famille
 
 ## Types de logiciels
 
