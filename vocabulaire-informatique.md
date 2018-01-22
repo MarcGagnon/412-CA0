@@ -141,24 +141,47 @@ Prenons par exemple, la courte description suivante :
 
 **HP - Portatif 17-AR007CA 17,3 po, 2,7 GHz AMD A12-9720P, DD 2 To, DDR4 SDRAM 12 Go, Windows 10 Famille**
 
-**Fabriquant :** Hewlett Packard (HP)
-**Type d'ordinateur :** Portable (portatif)
-**Modèle :** 17-AR007CA
-**Taille de l'écran :** 17,3 pouces
-**Microprocesseur :** AMD A12-9720P 2,7 gigahertz (GHz)
-**Disque dur :** 2 teraoctets (To)
-**Mémoire vive :** 12 gigaoctets (Go)
+**Fabriquant :** Hewlett Packard (HP)\n
+**Type d'ordinateur :** Portable (portatif)\n
+**Modèle :** 17-AR007CA\n
+**Taille de l'écran :** 17,3 pouces\n
+**Microprocesseur :** AMD A12-9720P 2,7 gigahertz (GHz)\n
+**Disque dur :** 2 teraoctets (To)\n
+**Mémoire vive :** 12 gigaoctets (Go)\n
 **Système d'exploitation :** Windows 10 Famille
 
 ## Types de logiciels
 
+Les **logiciels**, ou **programmes**, installables sur un ordinateur peuvent être classés en quatre grandes familles : les **systèmes d'exploitation**, les **environnements de développement**, les **logiciels d'application courante** et les **utilitaires**.
+
 ### Systèmes d'exploitation
+
+Le **système d'exploitation** est un ensemble de programmes qui dirige l'utilisation des ressources d'un ordinateur par des logiciels applicatifs ([Wikipédia](https://fr.wikipedia.org/wiki/Système_d'exploitation "Lien vers l'article « Système d'exploitation » sur Wikipédia")). Autrement dit, le système d'exploitation (vous entendrez parfois l'expression «&nbsp;O. S.&nbsp;», de l'anglais _**O**perating **S**ystem_) est le programme (ou les milliers de petits programmes) qui **fait le lien entre l'utilisateur et le matériel** de l'ordinateur (le processeur, la mémoire, les disques durs, l'écran, le clavier, la souris et tous les autres périphériques, etc.)
+
+C'est à travers le système d'exploitation que les autres **applications** ou logiciels (comme un **traitement de texte** ou un **chiffrier électronique**) peuvent utiliser les ressources matérielles de l'ordinateur.
 
 #### Windows
 
-#### OS X
+Le système d'exploitation **Windows**, commercialisé par la société **Microsoft**, est de loin le système d'exploitation le plus populaire sur le marché. Il est installé sur plus de 90&nbsp;% des ordinateurs personnels. Voici une liste partielle de quelques-unes des versions les plus populaires de Windows :
+
+**Windows 3.1** (première version complète et stable)\n
+**Windows 95**  (premier véritable succès commercial)\n
+**Windows NT** (version « réseau » ou d'entreprise)\n
+**Windows XP**\n (version stable)\n
+**Windows Vista** (a connu plusieurs ratés)\n
+**Windows 7** (version stable)\n
+**Windows 8** (a connu plusieurs ratés)\n
+**Windows 10**
+
+ Ce n'est pas un oubli, il n'y a pas eu de version Windows 9. La version courante actuelle est **Windows&nbsp;10**, plus légère que les précédentes en espace disque et plutôt stable pour l'instant. Croisons nos doigts!
+
+#### macOS (ou OS X)
+
+Le système d'exploitation **macOS** (anciennement OS&nbsp;X) est utilisé sur les ordinateurs **Mac** (de **MacIntosh**), commercialisés par la société **Apple**. Il est construit à partir d'une version **libre** du système d'exploitation **Unix**, très robuste et populaire au sein des universités et des grandes entreprises, et une **interface graphique** élégante et intuitive pour l'utilisateur lui a été ajoutée. Les ordinateurs d'Apple et le système d'exploitation **OS&nbsp;X** représentent moins de 10&nbsp;% du marché des ordinateurs personnels.
 
 #### Linux
+
+Dans les années 70, (...) Unix (...).
 
 #### iOS, Android et Windows Mobile
 
