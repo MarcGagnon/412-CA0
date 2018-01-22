@@ -162,7 +162,7 @@ C'est à travers le système d'exploitation que les autres **applications** ou l
 
 #### Windows
 
-Le système d'exploitation **Windows**, commercialisé par la société **Microsoft**, est de loin le système d'exploitation le plus populaire sur le marché. Il est installé sur près de 90&nbsp;% des ordinateurs personnels. Voici une liste partielle de quelques-unes des versions les plus populaires de Windows :
+Le système d'exploitation **Windows**, commercialisé par la société **Microsoft**, est de loin le système d'exploitation le plus populaire sur le marché. Il est installé sur près de 90&nbsp;% des ordinateurs personnels. Voici une liste de quelques-unes des versions les plus populaires de Windows :
 
 **Windows 3.1** (première version complète et stable)<br>
 **Windows 95**  (premier véritable succès commercial)<br>
@@ -177,7 +177,7 @@ Le système d'exploitation **Windows**, commercialisé par la société **Micros
 
 #### macOS (ou OS X)
 
-Le système d'exploitation **macOS** (anciennement OS&nbsp;X) est utilisé sur les ordinateurs **Mac** (de **MacIntosh**), commercialisés par la société **Apple**. Il est construit à partir d'une version **libre** du système d'exploitation **Unix**, très robuste et populaire au sein des universités et des grandes entreprises, et une **interface graphique** élégante et intuitive pour l'utilisateur lui a été ajoutée. Les ordinateurs d'Apple et le système d'exploitation **OS&nbsp;X** représentent moins de 10&nbsp;% du marché des ordinateurs personnels.
+Le système d'exploitation **macOS** (anciennement OS&nbsp;X) est utilisé sur les ordinateurs **Mac** (de **MacIntosh**), commercialisés par la société **Apple**. Il est construit à partir d'une version **libre** du système d'exploitation **UNIX**, très robuste et populaire au sein des universités et des grandes entreprises, et une **interface graphique** élégante et intuitive pour l'utilisateur lui a été ajoutée. Les ordinateurs d'Apple et le système d'exploitation **OS&nbsp;X** représentent moins de 10&nbsp;% du marché des ordinateurs personnels.
 
 #### Linux
 
