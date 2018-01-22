@@ -166,8 +166,8 @@ Le système d'exploitation **Windows**, commercialisé par la société **Micros
 
 **Windows 3.1** (première version complète et stable)<br>
 **Windows 95**  (premier véritable succès commercial)<br>
-**Windows NT** (version « réseau » ou d'entreprise)\n
-**Windows XP**\n (version stable)<br>
+**Windows NT** (version « réseau » ou d'entreprise)<br>
+**Windows XP** (version stable)<br>
 **Windows Vista** (a connu plusieurs ratés)<br>
 **Windows 7** (version stable)<br>
 **Windows 8** (a connu plusieurs ratés)<br>
