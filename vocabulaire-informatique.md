@@ -158,7 +158,7 @@ Les **logiciels**, ou **programmes**, installables sur un ordinateur peuvent êt
 
 Le **système d'exploitation** est un ensemble de programmes qui dirige l'utilisation des ressources d'un ordinateur par des logiciels applicatifs ([Wikipédia](https://fr.wikipedia.org/wiki/Système_d'exploitation "Lien vers l'article « Système d'exploitation » sur Wikipédia")). Autrement dit, le système d'exploitation (vous entendrez parfois l'expression «&nbsp;O. S.&nbsp;», de l'anglais _**O**perating **S**ystem_) est le programme (ou les milliers de petits programmes) qui **fait le lien entre l'utilisateur et le matériel** de l'ordinateur (le processeur, la mémoire, les disques durs, l'écran, le clavier, la souris et tous les autres périphériques, etc.)
 
-C'est à travers le système d'exploitation que les autres **applications** ou logiciels (comme un **traitement de texte** ou un **chiffrier électronique**) peuvent utiliser les ressources matérielles de l'ordinateur.
+C'est à travers le système d'exploitation que les autres **applications** ou logiciels (comme un **traitement de texte** ou un **chiffrier électronique**) peuvent utiliser les **ressources matérielles** de l'ordinateur.
 
 #### Windows
 
