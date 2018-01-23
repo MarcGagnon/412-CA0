@@ -181,7 +181,7 @@ Le système d'exploitation **macOS** (anciennement OS&nbsp;X) est utilisé sur l
 
 #### Linux
 
-Dans les années 70, (...) Unix (...).
+Dans les années 70, (...) Unix (...). Ajout dans vi sur Cygwin.
 
 #### iOS, Android et Windows Mobile
 
