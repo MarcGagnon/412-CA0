@@ -181,7 +181,7 @@ Le système d'exploitation **macOS** (anciennement OS&nbsp;X) est utilisé sur l
 
 #### UNIX et Linux
 
-Le système d'exploitation [**UNIX**](https://fr.wikipedia.org/wiki/Unix "Lien vers l'article « Unix » sur Wikipédia") est développé durant les années 70. Très robuste et stable, sa principale interface utilisateur est en  **ligne de commande**, c'est-à-dire que l'utilisateur passe ses commandes en texte à l'aide du clavier. Il est surtout utilisé dans les universités et la grande entreprise.
+Le système d'exploitation [**UNIX**](https://fr.wikipedia.org/wiki/Unix "Lien vers l'article « Unix » sur Wikipédia") est développé durant les années 70. Très robuste et stable, sa principale interface utilisateur est en  **ligne de commande**, c'est-à-dire que l'utilisateur passe ses commandes à partir du clavier. Il est surtout utilisé dans les universités et la grande entreprise.
 
 Au début des années 90, l'étudiant Finlandais Linus Torvalds crée le **noyau** du système d'exploitation [**Linux**](https://fr.wikipedia.org/wiki/Linux "Lien vers l'article « Linux » sur Wikipédia") en rendant son **code source** disponible sous licence **GPL**. Il s'agit d'une licence qui permet d'utiliser un logiciel gratuitement (et **librement**) et même de le modifier, à la condition de le redistribuer sous les mêmes conditions. Linux est ainsi un **logiciel libre**, par opposition aux **logiciels propriétaires** tels que Windows et macOS.
 
