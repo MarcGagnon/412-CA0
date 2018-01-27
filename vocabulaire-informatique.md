@@ -179,9 +179,13 @@ Le système d'exploitation **Windows**, commercialisé par la société **Micros
 
 Le système d'exploitation **macOS** (anciennement OS&nbsp;X) est utilisé sur les ordinateurs **Mac** (de **MacIntosh**), commercialisés par la société **Apple**. Il est construit à partir d'une version **libre** du système d'exploitation **UNIX**, très robuste et populaire au sein des universités et des grandes entreprises, et une **interface graphique** élégante et intuitive pour l'utilisateur lui a été ajoutée. Les ordinateurs d'Apple et le système d'exploitation **OS&nbsp;X** représentent moins de 10&nbsp;% du marché des ordinateurs personnels.
 
-#### Linux
+#### UNIX et Linux
 
-Dans les années 70, (...) Unix (...). Ajout dans vi sur Cygwin.
+Le système d'exploitation [**UNIX**](https://fr.wikipedia.org/wiki/Unix "Lien vers l'article « Unix » sur Wikipédia") est développé durant les années 70. Très robuste et stable, sa principale interface utilisateur est en  **ligne de commande**, c'est-à-dire que l'utilisateur passe ses commandes en texte à l'aide du clavier. Il est surtout utilisé dans les universités et la grande entreprise.
+
+Au début des années 90, un étudiant Finlandais, crée un nouveau **noyau** de système d'exploitation en rendant son **code source** disponible à tous sous licence **GPL**. Il s'agit d'une licence qui permet d'utiliser un logiciel gratuitement (ou **librement**) et même de le modifier, à condition de le redistribuer sous les mêmes conditions. Ce nouveau d'exploitation s'appelle **Linux**, d'après le prénom de son créateur, Linus Torvalds.
+
+Aujourd'hui, Linux est doté d'une interface graphique aussi évoluée que celles de Windows et macOS, en plus d'offrir des milliers de programmes et d'applications disponibles librement sous licence GPL, tels que la suite **LibreOffice** et **OpenOffice**. Plusieurs entreprises, villes et gouvernements prennent ou envisagent de prendre le virage du **logiciel libre**, afin de réduire leurs coûts en licences Windows et Microsoft Office. Il serait donc sage et avisé de devenir familier avec Linux et les logiciels libres, puisque leur popularité ne fait qu'augmenter, d'année en année.
 
 #### iOS, Android et Windows Mobile
 
