@@ -1,4 +1,4 @@
-# Table des matières
+# Summary
 
 * [Introduction](README.md)
 * [Histoire de l'ordinateur](histoire-de-l-ordinateur.md)
@@ -27,4 +27,5 @@
 * [PowerPoint : Animations](powerpoint-animations.md)
 * [PowerPoint : Liens, actions et menus](powerpoint-liens-actions-menus.md)
 * [Règles de design pour non designers](regles-de-design-pour-non-designers.md)
+* [Médiagraphie](mediagraphie.md)
 

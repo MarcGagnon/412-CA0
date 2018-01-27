@@ -1,3 +1,3 @@
 # Règles de design pour non designers
 
-[Table des matières](SUMMARY.md)
+[Table des matières](SUMMARY.md) 
