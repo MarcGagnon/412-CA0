@@ -1,7 +1,7 @@
 # Courriel professionnel
 
 ## Le courriel
-
+ 
 [Généralités sur la rédaction d'un courriel](http://bdl.oqlf.gouv.qc.ca/bdl/gabarit_bdl.asp?Th=2&t1=&id=2347 "Lien vers l'article « Généralités sur la rédaction d'un courriel » sur la Banque de dépannage linguistique de l'Office québécois de la langue française") (2 min.)
 
 ## Parties du courriel
