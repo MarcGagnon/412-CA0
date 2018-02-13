@@ -2,7 +2,7 @@
 
 Lisez attentivement les articles ci-dessous et ajoutez-les à votre **fil Diigo** avec les mots clés suivants :
 
-"rédaction administrative" courriel 412-CA0
+écriture "rédaction administrative" courriel 412-CA0
 
 ## Le courriel
  
