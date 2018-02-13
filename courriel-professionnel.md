@@ -1,8 +1,14 @@
 # Courriel professionnel
 
+Lisez attentivement les articles ci-dessous et ajoutez-les à votre **fil Diigo** avec les mots clés suivants :
+
+"rédaction administrative" courriel 412-CA0
+
 ## Le courriel
  
 [Généralités sur la rédaction d'un courriel](http://bdl.oqlf.gouv.qc.ca/bdl/gabarit_bdl.asp?Th=2&t1=&id=2347 "Lien vers l'article « Généralités sur la rédaction d'un courriel » sur la Banque de dépannage linguistique de l'Office québécois de la langue française") (2 min.)
+
+**Ajouter dans Diigo avec les mots clés (tags) :** "rédaction administrative" courriel 412-CA0
 
 ## Parties du courriel
 
@@ -11,6 +17,8 @@
 [Début du message et formule d'appel](http://bdl.oqlf.gouv.qc.ca/bdl/gabarit_bdl.asp?Th=2&t1=&id=4944 "Lien vers l'article « Début du message et formule d'appel » sur la Banque de dépannage linguistique de l'Office québécois de la langue française") (6 min.)
 
 [Message](http://bdl.oqlf.gouv.qc.ca/bdl/gabarit_bdl.asp?Th=2&t1=&id=4945 "Lien vers l'article « Message » sur la Banque de dépannage linguistique de l'Office québécois de la langue française") (3 min.)
+
+[Niveaux de langue](https://lacroiseefr.wordpress.com/2010/04/07/le-style-decriture-de-lauteur/), voir  la définition des quatre niveaux (3 min.)
 
 [Salutation](http://bdl.oqlf.gouv.qc.ca/bdl/gabarit_bdl.asp?Th=2&t1=&id=4946 "Lien vers l'article « Salutation » sur la Banque de dépannage linguistique de l'Office québécois de la langue française") (3 min.)
 
