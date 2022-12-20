@@ -4,6 +4,6 @@ Notes de cours
 
 Marc Gagnon
 
-
+2022-12-19 : Update through Git and GitHub
 
 
